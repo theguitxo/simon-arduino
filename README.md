@@ -17,3 +17,9 @@ Este repositorio contiene un sketch de Arduino para jugar a Simon.
 Puede ver un equema de las conexiones en el fichero fritzin-schema.fzz
 
 [Documento con explicación en PDF](https://github.com/theguitxo/simon-arduino/blob/master/simon-arduino.pdf)
+
+---
+
+## Youtube
+
+[![Video Title](https://img.youtube.com/vi/EiKkMMSHk/0.jpg)](https://www.youtube.com/watch?v=EiKkMMSHk)
