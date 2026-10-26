@@ -22,4 +22,4 @@ Puede ver un equema de las conexiones en el fichero fritzin-schema.fzz
 
 ## Youtube
 
-[![Video Title](https://img.youtube.com/vi/1cg-GU0jOak/0.jpg)](https://www.youtube.com/watch?v=1cg-GU0jOak)
+[![Video Title](https://img.youtube.com/vi/EiKkMMSHk-A/0.jpg)](https://www.youtube.com/watch?v=EiKkMMSHk-A)
